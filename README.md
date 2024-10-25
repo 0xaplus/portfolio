@@ -4,13 +4,13 @@
 # 💻 Abdulsalam Adams- Backend Engineer
 
 **Passionate about crafting scalable, secure backend architectures with a strong foundation in TypeScript, Node.js, and MongoDB.**  
-I focus on building robust systems that solve real-world problems, and I’m continuously exploring new technologies to enhance application performance and security. Here’s a snapshot of my work!
+I focus on building robust systems that solve real-world problems, and I’m continuously exploring new technologies to enhance application performance and security. I'm also a web3 enthusiast and Im currently learning solidity and other blockchain technologies. Here’s a snapshot of my work!
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: TypeScript, JavaScript, SQL
+- **Languages**: TypeScript, JavaScript, SQL, Solidity(beginner)
 - **Frameworks & Libraries**: Express.js, Node.js,
 - **Databases**: MongoDB, MySQL
 - **Key Areas**: Authentication & Authorization, WebSocket communication, Payment Integrations, Marketplace & Mealkit Systems
